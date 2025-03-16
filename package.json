@@ -2,7 +2,7 @@
     "name": "vnbrdt-extension-pack",
     "displayName": "vnbRdt Extension Pack",
     "description": "just a personal collection of third-party extensions, nothing more",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "vnbRdt",
     "icon": "images/icon.webp",
     "engines": {
